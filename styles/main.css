@@ -399,7 +399,8 @@ a {
   background-position: center;
   background-size: contain;
   width: 140px;
-  height: 30px; }
+  height: 30px; 
+}
 
 .arrow-down-ico {
   background-image: url(../arrow-down.svg);
