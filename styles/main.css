@@ -400,7 +400,7 @@ a {
   height: 30px; }
 
 .arrow-down-ico {
-  background-image: url(/images/_dev/arrow-down.svg);
+  background-image: url(arrow-down.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -410,7 +410,7 @@ a {
   transition: .3s; }
 
 .search-ico {
-  background-image: url(/images/_dev/search-icon.svg);
+  background-image: url(search-icon.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -418,7 +418,7 @@ a {
   height: 12px; }
 
 .open-search-ico {
-  background-image: url(/images/_dev/open-search-icon.svg);
+  background-image: url(open-search-icon.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -427,7 +427,7 @@ a {
   cursor: pointer; }
 
 .close-ico {
-  background-image: url(/images/_dev/close-icon.svg);
+  background-image: url(close-icon.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -436,7 +436,7 @@ a {
   cursor: pointer; }
 
 .burger-ico {
-  background-image: url(/images/_dev/burger-icon.svg);
+  background-image: url(burger-icon.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -445,7 +445,7 @@ a {
   cursor: pointer; }
 
 .doc-ico {
-  background-image: url(/images/_dev/doc-icon.svg);
+  background-image: url(doc-icon.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
